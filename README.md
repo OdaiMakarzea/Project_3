@@ -1,2 +1,2 @@
-# Project_3
-Project3
+# Project_3 Movie Catalog CLI Application
+Movie Catalog CLI Application
